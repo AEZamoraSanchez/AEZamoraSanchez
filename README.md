@@ -8,6 +8,17 @@ Me gradué del bootcamp SoyHenry, donde adquirí una base sólida en programaci�
 Mi Pasión                                                                                                                                
 Tengo una inclinación hacia el front-end, ya que lo que más me apasiona son los detalles de diseño y la experiencia del usuario. Creo en la importancia de crear interfaces atractivas y funcionales que mejoren la vida de los usuarios y hagan que interactuar con la tecnología sea una experiencia agradable.
 
+Tecnologías que manejo                                                                                                                        
+- JavaScript
+- React.js
+- NEXT.js
+- Redux
+- Zustand (para la gestión de estados)
+- Sass (para el manejo de estilos)
+- Node.js (en el lado del back-end)
+- HTML5 y CSS3
+- Git y control de versiones
+
 Aprendizaje Continuo                                                                                                                     
 Estoy comprometido con el aprendizaje continuo y me mantengo enfocado en mantenerme siempre actualizado con las últimas tendencias y avances en el desarrollo web. La tecnología avanza rápidamente, y me esfuerzo por seguir aprendiendo y aplicando nuevos conocimientos en mis proyectos.
 
