@@ -1,6 +1,6 @@
 
 ¡Hola! 👋 Soy Angel Eduardo Zamora Sanchez.                                                                                              
-Soy un desarrollador Full-Stack con una sólida formación en tecnologías clave para el desarrollo web. Mi experiencia incluye la creación de aplicaciones web de alto rendimiento utilizando tecnologías como JavaScript, React, NEXT.js y Redux en el lado del front-end. También estoy familiarizado con Zustand para la gestión de estados y Sass para el manejo de estilos. Además, cuento con experiencia en el desarrollo de servidores y API con Node.js en el lado del back-end.
+Soy un desarrollador Full-Stack con una sólida formación en tecnologías clave para el desarrollo web. Mi experiencia incluye la creación de aplicaciones web de alto rendimiento utilizando tecnologías como JavaScript, TypeScript, React, NEXT.js y Redux en el lado del front-end. También estoy familiarizado con Zustand para la gestión de estados y Sass para el manejo de estilos. Además, cuento con experiencia en el desarrollo de servidores y API con Node.js en el lado del back-end.
 
 Mi Trayectoria                                                                                                                           
 Me gradué del bootcamp SoyHenry, donde adquirí una base sólida en programación y desarrollo web. Durante mi tiempo en el bootcamp, pude aplicar mis habilidades en proyectos tanto personales como en proyectos reales, lo que me permitió desarrollar un conjunto diverso de habilidades técnicas.
