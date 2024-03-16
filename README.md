@@ -35,7 +35,6 @@ Continuous Learning
 I am committed to continuous learning and keep focused on keeping myself updated with the latest trends and advances in web development. Technology advances rapidly, and I strive to keep learning and applying new knowledge in my projects.
 
 Contact:                                                                                                                                 
-Puedes encontrarme en las siguientes redes sociales:
-
+You can find me in the following social networks:
 [LinkedIn](https://www.linkedin.com/in/angel-eduardo-zamora-sanchez-64b84226b)                                                           
 [Correo](ang02aezs@gmail.com)
