@@ -38,4 +38,4 @@ Contact:
 You can find me in the following social networks:
 
 [LinkedIn](https://www.linkedin.com/in/angel-eduardo-zamora-sanchez-64b84226b)                                                           
-[Correo](ang02aezs@gmail.com)
+Correo: ang02aezs@gmail.com
