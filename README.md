@@ -2,10 +2,9 @@
 ¡Hi! 👋 I'm Angel Eduardo Zamora Sanchez.                                                                                              
 Full-Stack developer with a strong background in key technologies for web development. My experience includes building high performance web applications using technologies such as JavaScript, TypeScript, React.js, Angular, NEXT.js, Redux and Zustand on the front-end side. I am also familiar with Tailwind, CSS and Sass for style management. I have experience in server-side and API development with Node.js, Express and Nest on the back-end side. In addition to knowledge in SQL databases such as MySQL, PostgreSQL, SQLite and SQLServer and noSQL such as MongoDB.
 
-Tecnologías que manejo                                                                                                                        
-- JavaScript
+Technologies I manage                                                                       - JavaScript
 - TypeScript
-- Git y control de versiones
+- C# 
 
 Frontend:
 - React.js
@@ -22,12 +21,13 @@ Backend:
 - Node.js
 - Express
 - Nestjs
+- ASP.NET
 
 Databases:
 - MySQL
 - PostgreSQL
-- SQL Server
 - SQLite
+- SQL Server
 - MongoDB
 
 Continuous Learning 
